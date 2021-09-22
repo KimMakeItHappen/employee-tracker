@@ -67,4 +67,6 @@ If you need to update and employee role, choose "Update Employee Role". You can 
 
 # Mock-up
 The following video shows an example of the application being used from the command line:
-Screen Recording 2021-09-22 at 7.28.26 PM.mov
+Here is a Link to my YouTube Video https://youtu.be/SdN2z9LnQoM
+and also screenshots
+![screenshot](/Users/kimberlyperez/Desktop/Screen Shot 2021-09-22 at 7.37.52 PM.png)
