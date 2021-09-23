@@ -75,3 +75,4 @@ and also screenshots in the repo two screen shots
 
 # Questions
 
+If you have any questions or concerns please feel free to reach me at: Kperez22692@gmail.com and you can follow me at GitHub at https://www.github.com/KimMakeItHappen 
