@@ -72,6 +72,8 @@ If you need to update and employee role, choose "Update Employee Role". You can 
 The following video shows an example of the application being used from the command line:
 Here is a Link to my YouTube Video https://youtu.be/SdN2z9LnQoM
 and also screenshots in the repo two screen shots
+![Screen Shot 2021-09-22 at 7 37 52 PM](https://user-images.githubusercontent.com/80864786/134439059-44afde64-becf-4e79-b5e0-303e9dea31b5.png)
+![Screen Shot 2021-09-22 at 7 38 01 PM](https://user-images.githubusercontent.com/80864786/134439060-3561172f-ecbd-4e6b-b5ad-79d7b51c32e4.png)
 
 # Questions
 
