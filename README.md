@@ -43,6 +43,7 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
 
 # Installation
+
 Install node.js, mysql, and npm. Then, clone this repo. Open the file called connection.js, which is located in the db folder. Create a .env file in the root directory with the following contents:
 
 DB_USER='your username for mysql' DB_PASS='your password for mysql' DB_NAME='your database name'
@@ -50,6 +51,7 @@ DB_USER='your username for mysql' DB_PASS='your password for mysql' DB_NAME='you
 You'll want to change the name of your database in the schema.sql file to match the name you choose for the .env file. Lastly, log into the mysql shell and type source schema.db. This will set up the database.
 
 # Usage
+
 Log into mysql in the terminal and type:
 
 source ./db/schema.sql
@@ -66,7 +68,10 @@ Add employees - start with managers before adding regular employees
 If you need to update and employee role, choose "Update Employee Role". You can also choose to "View all Roles", "View all Departments", and "View all Employees".
 
 # Mock-up
+
 The following video shows an example of the application being used from the command line:
 Here is a Link to my YouTube Video https://youtu.be/SdN2z9LnQoM
-and also screenshots
-![screenshot](/Users/kimberlyperez/Desktop/Screen Shot 2021-09-22 at 7.37.52 PM.png)
+and also screenshots in the repo two screen shots
+
+# Questions
+
