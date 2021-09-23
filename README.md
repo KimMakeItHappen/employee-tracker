@@ -5,8 +5,8 @@
 * [Description](#description)  
 * [User Story](#userStory)
 * [Acceptance Criteria](#acceptanceCriteria) 
-* [Installation] (#Installation) 
-* [Usage] (#Usage)
+* [Installation](#Installation) 
+* [Usage](#Usage)
 * [Mock-Up](#Mock-up)
 * [Questions](#Questions)
 
